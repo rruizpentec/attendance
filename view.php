@@ -19,7 +19,7 @@
  *
  * @package    mod_attendance
  * @copyright  2011 Artem Andreev <andreev.artem@gmail.com>
- * @license    http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
+  * @license    http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
 
 

@@ -19,6 +19,7 @@
  *
  * @package    mod_attendance
  * @copyright  2011 Artem Andreev <andreev.artem@gmail.com>
+ *             2016 Planificación de Entornos tecnologicos S.L.
  * @license    http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
 
